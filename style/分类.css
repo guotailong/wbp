@@ -1,0 +1,86 @@
+.m_layout form {
+	background: #fff;
+	height: 0.88rem;
+}
+
+.m_layout .text span {
+	margin-left: 0.2rem;
+}
+
+.m_layout .con {
+	width: 2rem;
+}
+
+.m_layout .con ul li {
+	text-align: center;
+}
+
+.m_layout .con ul .con-one {
+	background: #fff;
+	box-shadow: inset 2px 0 #fd783f;
+}
+
+.m_layout .con ul .con-one a {
+	color: #fd783f;
+}
+
+.m_layout .con-right {
+	width: 5.50rem;
+}
+
+.m_layout .con-right ul {
+	border-bottom: 0.01rem solid #e1e1e1;
+	background: #fff;
+}
+
+.m_layout .con-right ul li {
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+
+.m_layout .con-right ul .li-one {
+	position: relative;
+}
+
+.m_layout .con-right ul li img {
+	position: absolute;
+	right: 0.4rem;
+	top: 0.36rem;
+}
+
+.m_layout .nr {
+	width: 5.5rem;
+	background: #fff;
+}
+
+.m_layout .nr ul li {
+	float: left;
+	width: 50%;
+}
+
+.m_layout .nr ul li a {
+	display: inline-block;
+	width: 100%;
+}
+
+.m_layout .nr ul li a div img {
+	width: 100%;
+}
+
+.m_layout .nr ul li a .nr-text p {
+	color: #666;
+	text-align: center;
+	font-size: 0.24rem;
+	padding: 0 0.2rem;
+	line-height: normal;
+}
+
+.m_layout .nr ul li a .nr-text .p-one {
+	color: #ff7800;
+	font-size: 0.28rem;
+}
+
+.m_layout .nr ul li a .nr-text .p-one span {
+	font-size: 0.22rem;
+}

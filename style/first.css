@@ -1,0 +1,233 @@
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.m_layout {
+	line-height: 0.88rem;
+	background: #f4f4f4;
+	max-width: 7.5rem;
+	min-width: 3.2rem;
+	width: 100%;
+	margin: 0 auto;
+	/*height: 12.24rem;*/
+	position: relative;
+}
+
+.m_layout .one {
+	position: absolute;
+	left: 0.3rem;
+}
+
+.m_layout .two {
+	position: absolute;
+	right: 1.08rem;
+	top: 0.04rem;
+}
+
+.m_layout .three {
+	position: absolute;
+	right: 0.3rem;
+	top: 0.04rem;
+}
+
+.m_layout form img {
+	display: inline-block;
+	width: 0.48rem;
+	height: 0.48rem;
+}
+
+.m_layout .one img {
+	vertical-align: middle;
+}
+
+.m_layout .text span {
+	font-size: 0.36rem;
+	vertical-align: middle;
+	position: absolute;
+	left: 40%;
+}
+
+.m_layout .two img {
+	vertical-align: middle;
+}
+
+.m_layout .three img {
+	vertical-align: middle;
+}
+
+.swiper-container{ width:100%;}
+.swiper-container .swiper-slide{ width:100%;}
+.swiper-container .swiper-slide img{ width:100%;}
+
+.m_layout .swiper-container .swiper-pagination-bullet {
+    width: 0.16rem;
+    height: 0.16rem;
+    display: inline-block;
+    border-radius: 100%;
+    background: #000;
+    opacity: .2;
+}
+
+.m_layout .swiper-container .swiper-pagination-bullet-active {
+    opacity: 1;
+    background: #fff;
+}
+
+.m_layout .checkmark {
+	text-align: center;
+	margin-bottom: 0.1rem;
+	background: white;
+}
+
+.m_layout .checkmark img {
+	/*background: url(../images/duihao.png) no-repeat;*/
+	display: inline-block;
+	width: 0.48rem;
+	height: 0.48rem;
+	vertical-align: middle;
+}
+
+.m_layout .checkmark span {
+	font-size: 0.24rem;
+	vertical-align: middle;
+}
+
+.m_layout .list {
+	background: #fff;
+}
+
+.m_layout .list ul {
+	padding: 0.2rem 0;
+}
+
+.m_layout .list ul li {
+	float: left;
+	text-align: center;
+	width: 20%;
+}
+
+.m_layout .list ul li img {
+	width: 1.20rem;
+	height: 1.20rem;
+	margin: 0 auto;
+}
+
+.m_layout .pic {
+	width: 100%;
+	display: inline-block;
+}
+
+.m_layout .pic a img {
+	width: 50%;
+	float: left;
+}
+
+
+.m_layout .bigpic img {
+	width: 100%;
+	margin: 0.1rem 0;
+}
+
+.m_layout .title {
+	width: 100%;
+	background: #fff;
+	text-align: center;
+	height: 0.8rem;
+	border-bottom: 0.01rem solid #e1e1e1;
+}
+
+.m_layout .title span {
+	font-size: 0.30rem;
+	line-height: 0.8rem;
+} 
+
+.m_layout .bdz {
+	width: 50%;
+	background: #fff;
+	float: left;
+}
+
+.m_layout .bdz .bdz-img {
+	width: 100%;
+}
+
+.m_layout .bdz .bdz-img img {
+	width: 100%;
+}
+
+.m_layout .bdz .bdz-text {
+	width: 100%;
+	text-align: center;
+}
+
+.m_layout .bdz .bdz-text div {
+	display: inline-block;
+	font-size: 0.28rem;
+	color: #fd783f;
+	border: 0.01rem solid #fd783f;
+	width: 1.4rem;
+	height: 0.5rem;
+	border-radius: 0.04rem;
+	line-height: 0.5rem;
+}
+
+.m_layout .bdz .bdz-name {
+	text-align: center;
+	background: #fff;
+	font-size: 0.24rem;
+}
+
+.m_layout .bdz .bdz-next {
+	font-size: 0.4rem;
+	text-align: center;
+	color: #fd783f;
+	line-height: 0.5rem;
+	padding-bottom: 0.68rem;
+}
+
+.m_layout .zhong i {
+	float: left;
+	display: inline-block;
+	width: 0.01rem;
+	height: 4.9874rem;
+	color: #666;
+}
+
+.m_layout .bdz-right {
+	border-right: none;
+}
+
+.m_layout .dibu {
+	width: 100%;
+	height: 0.98rem;
+	background: #666;
+}
+
+.m_layout .dibu li {
+	width: 20%;
+	float: left;
+	text-align: center;
+	line-height: 0.34rem;
+	font-size: 0.24rem;
+	color: #dbdbdb;
+}
+
+.m_layout .dibu li a {
+	color: #dbdbdb;
+}
+
+.m_layout .dibu li img {
+	margin: 0 auto;
+}
+
+.m_layout .dibu li span {
+	display: inline-block;
+}
+
+.m_layout .dibu li .first {
+	color: #ff6702;
+}

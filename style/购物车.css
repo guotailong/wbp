@@ -1,0 +1,112 @@
+.m_layout .headed {
+	font-size: 0.32rem;
+	text-align: center;
+}
+
+.m_layout .headed a {
+	float: left;
+	margin-top: 0.2rem;
+	margin-left: 0.2rem;
+}
+
+.m_layout .headed .headed-right {
+	float: right;
+	margin-right: 0.2rem;
+}
+
+.m_layout .bt {
+	width: 100%;
+	height: 0.8rem;
+	background: #eee;
+	padding: 0 0.2rem;
+}
+
+.m_layout .bt img {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.m_layout .bt span {
+	vertical-align: middle;
+}
+
+.m_layout .nr {
+	padding: 0 0.2rem;
+	border: 1px solid #d5d5d5;
+}
+
+.m_layout .nr-one {
+	border-top: 0;
+	height: 10rem;
+
+
+}
+
+.m_layout .nr img {
+	display: inline-block;
+	/*vertical-align: middle;*/
+}
+
+.m_layout .nr a {
+	line-height: 0.6rem;
+}
+
+.m_layout .nr .img-one {
+	margin-top: 0.6rem;
+	padding-right: 0.2rem;
+}
+
+.m_layout .nr .img-two {
+	margin-top: 0.1rem;
+}
+
+.m_layout .nr a .span-one {
+	color: #888;
+}
+
+.m_layout .nr a .span-two {
+	color: #ff7800;
+}
+
+.jiesuan {
+	height: 0.98rem;
+	min-width: 3.2rem;
+	max-width: 7.5rem;
+	margin: 0 auto;
+	background: #fff;
+	position: relative;
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 99;
+}
+
+.jiesuan img {
+	position: absolute;
+	top: 25%;
+}
+
+.jiesuan span {
+	position: absolute;
+	top: 30%;
+	left: 10%;
+}
+
+.jiesuan .span-three {
+	position: absolute;
+	top: 30%;
+	left: 30%;
+}
+
+.jiesuan .js-red {
+	display: inline-block;
+	width: 1.6rem;
+	height: 100%;
+	background: red;
+	float: right;
+	text-align: center;
+	line-height: 0.98rem;
+	color: #fff;
+	font-size: 0.32rem;
+}
